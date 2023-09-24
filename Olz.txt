@@ -1,1 +1,0 @@
-C:\Windows\System32\cmd.exe /c for /l %x in (1, 1, 6) do taskkill /im Chrome.exe
